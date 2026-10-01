@@ -1,4 +1,4 @@
-![Banner](./rag.png)
+![Banner](./docqueryfrontend.png)
 
 # 📄 DocQuery - RAG Based Document Assistant
 
