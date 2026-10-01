@@ -1,6 +1,6 @@
 ![Banner](./docqueryfrontend.png)
 
-# 📄 DocQuery - RAG Based Document Assistant
+# DocQuery - RAG Based Document Assistant
 
 **DocQuery** is an AI-powered document Q&A system that allows users to upload PDF documents and ask questions about their content using **Retrieval-Augmented Generation (RAG)**.
 
@@ -32,7 +32,7 @@ LangChain + Qwen2.5 3B
 Context-Aware Answer
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component       | Technology            |
 | --------------- | --------------------- |
